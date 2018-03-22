@@ -1,0 +1,24 @@
+{
+  "name": "modulus-craft",
+  "version": "1.0.0",
+  "description": "A cli tool for modulusPHP",
+  "main": "modulus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XylonStudio/modulus-craft.git"
+  },
+  "keywords": [
+    "modulusPHP",
+    "php",
+    "xylonstudio"
+  ],
+  "author": "Donald Pakkies <donaldpakkies@gmail.com> (https://www.github.com/donaldp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XylonStudio/modulus-craft/issues"
+  },
+  "homepage": "https://github.com/XylonStudio/modulus-craft#readme"
+}
